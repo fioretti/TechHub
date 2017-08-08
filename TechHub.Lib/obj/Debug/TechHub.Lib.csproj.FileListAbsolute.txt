@@ -1,0 +1,7 @@
+D:\projects\TechHub\TechHub.Lib\bin\Debug\TechHub.Lib.dll.config
+D:\projects\TechHub\TechHub.Lib\bin\Debug\TechHub.Lib.dll
+D:\projects\TechHub\TechHub.Lib\bin\Debug\TechHub.Lib.pdb
+D:\projects\TechHub\TechHub.Lib\bin\Debug\EntityFramework.dll
+D:\projects\TechHub\TechHub.Lib\bin\Debug\EntityFramework.xml
+D:\projects\TechHub\TechHub.Lib\obj\Debug\TechHub.Lib.dll
+D:\projects\TechHub\TechHub.Lib\obj\Debug\TechHub.Lib.pdb

@@ -1,0 +1,10 @@
+D:\projects\TechHub\TechHub.Test\bin\Debug\TechHub.Test.dll.config
+D:\projects\TechHub\TechHub.Test\bin\Debug\TechHub.Test.dll
+D:\projects\TechHub\TechHub.Test\bin\Debug\TechHub.Test.pdb
+D:\projects\TechHub\TechHub.Test\bin\Debug\nunit.framework.dll
+D:\projects\TechHub\TechHub.Test\bin\Debug\StructureMap.dll
+D:\projects\TechHub\TechHub.Test\bin\Debug\TechHub.Lib.dll
+D:\projects\TechHub\TechHub.Test\bin\Debug\TechHub.Lib.pdb
+D:\projects\TechHub\TechHub.Test\obj\Debug\TechHub.Test.csprojResolveAssemblyReference.cache
+D:\projects\TechHub\TechHub.Test\obj\Debug\TechHub.Test.dll
+D:\projects\TechHub\TechHub.Test\obj\Debug\TechHub.Test.pdb

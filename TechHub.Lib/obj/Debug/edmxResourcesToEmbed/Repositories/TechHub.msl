@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="techhubModelStoreContainer" CdmEntityContainer="techhubEntities">
+    <EntitySetMapping Name="Entities">
+      <EntityTypeMapping TypeName="techhubModel.Entity">
+        <MappingFragment StoreEntitySet="Entity">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Created" ColumnName="Created" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Content" ColumnName="Content" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="EntitiesByType" FunctionName="techhubModel.Store.EntitiesByType" />
+    <FunctionImportMapping FunctionImportName="GetEntities" FunctionName="techhubModel.Store.GetEntities" />
+  </EntityContainerMapping>
+</Mapping>
